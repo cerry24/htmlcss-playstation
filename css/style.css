@@ -19,3 +19,18 @@
     height: 250px;
     background-color: blueviolet;
 }
+
+.ms_product-intro {
+    background-color: blue;
+    height: 100px;
+}
+
+.ms_product-info {
+    background-color: brown;
+    height: 300px;
+}
+
+.ms_product-img {
+    background-color: cadetblue;
+    height: 300px;
+}
