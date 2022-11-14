@@ -78,3 +78,13 @@
 #ps-now {
     background-color: #161c3b;
 }
+
+.ms_section-title {
+    background-color: teal;
+    height: 70px;
+}
+
+.ms_social-logo {
+    background-color: darkgreen;
+    height: 130px;
+}
