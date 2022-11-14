@@ -53,3 +53,10 @@
     background-color: chartreuse;
     height: 150px;
 }
+
+.ps4,
+.ps-vr,
+.ps4-accessories {
+    background-color: cornflowerblue;
+    height: 250px;
+}
