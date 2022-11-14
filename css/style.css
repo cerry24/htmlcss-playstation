@@ -88,3 +88,14 @@
     background-color: darkgreen;
     height: 130px;
 }
+
+footer {
+    background-color: #00439c;
+}
+
+.region,
+.ms_list,
+.ms_copyright {
+    background-color: goldenrod;
+    height: 200px;
+}
