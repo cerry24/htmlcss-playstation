@@ -6,3 +6,11 @@
     background-color: #fff;
     height: 40px;
 }
+
+.ms_jumbotron {
+    background-color: aquamarine;
+}
+
+.ms_jumbo-content {
+    height: 400px;
+}
