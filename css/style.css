@@ -34,3 +34,8 @@
     background-color: cadetblue;
     height: 300px;
 }
+
+.ms_card {
+    height: 100px;
+    background-color: burlywood;
+}
