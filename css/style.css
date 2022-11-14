@@ -36,6 +36,20 @@
 }
 
 .ms_card {
-    height: 100px;
+    height: 150px;
     background-color: burlywood;
+}
+
+#new-releases {
+    background-color: #1f1f1f;
+}
+
+.ms_title {
+    background-color: chocolate;
+    height: 100px;
+}
+
+.ms_game {
+    background-color: chartreuse;
+    height: 150px;
 }
