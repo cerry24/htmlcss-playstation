@@ -60,3 +60,12 @@
     background-color: cornflowerblue;
     height: 250px;
 }
+
+#ps-plus {
+    background-color: #bebcbb;
+}
+
+.ms_text,
+.ms_lateral-img {
+    height: 450px;
+}
