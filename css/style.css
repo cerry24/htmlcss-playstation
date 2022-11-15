@@ -118,10 +118,16 @@ border-radius: 26px;
     background-color: #bebcbb;
 }
 
-.ms_text,
+.ms_btn-psplus {
+    color: #1988e3;
+    background-color: #d9dadc;
+    border-radius: 18px;
+}
+
+/* .ms_text,
 .ms_lateral-img {
     height: 450px;
-}
+} */
 
 .saving-tier {
     background-color: crimson;
