@@ -100,21 +100,18 @@ vertical-align: text-top;
     background-color: #1f1f1f;
 }
 
-/* .ms_title {
-    background-color: chocolate;
-    height: 100px;
-} */
-
 .ms_game,
 .ms_game img {
 border-radius: 26px;
 }
 
-.ps4,
-.ps-vr,
-.ps4-accessories {
-    background-color: cornflowerblue;
-    height: 250px;
+.fa-regular.fa-registered {
+    font-size: 18px;
+    vertical-align: text-top;
+}
+
+.ps4 p {
+    color: #727272;
 }
 
 #ps-plus {
