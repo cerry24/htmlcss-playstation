@@ -53,28 +53,44 @@ main {
 }
 
 .ms_carousel-card:hover {
-    border: 3px #0e79d0 solid;
+    border: 3px #1988e3 solid;
 }
 
-.ms_product-intro {
-    background-color: blue;
-    height: 100px;
+.ms_product-intro span {
+    color: #1988e3;
 }
 
-.ms_product-info {
-    background-color: brown;
-    height: 300px;
+.ms_product-intro p {
+    color: #727272;
+    font-weight: bold;
 }
 
-.ms_product-img {
-    background-color: cadetblue;
-    height: 300px;
+.ms_product-info p {
+    color: #727272;
 }
 
-.ms_card {
-    height: 150px;
-    background-color: burlywood;
+.ms_btn-info {
+    color: white;
+    background-color: #1988e3;
+    border-radius: 18px;
 }
+
+.ms_product-img  img{
+    width: 78%;
+}
+
+.ms_border {
+    border-bottom: 5px #1988e3 solid;
+}
+
+.ms_card img {
+    width: 60%;
+}
+
+.ms_card i {
+font-size: 10px;
+vertical-align: text-top;
+} 
 
 #new-releases {
     background-color: #1f1f1f;
