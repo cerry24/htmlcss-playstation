@@ -90,7 +90,11 @@ main {
 .ms_card i {
 font-size: 10px;
 vertical-align: text-top;
-} 
+}
+
+#it-takes-two {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+}
 
 #new-releases {
     background-color: #1f1f1f;
