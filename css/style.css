@@ -87,7 +87,7 @@ main {
     width: 60%;
 }
 
-.ms_card i {
+.fa-sharp.fa-solid.fa-trademark {
 font-size: 10px;
 vertical-align: text-top;
 }
@@ -100,14 +100,14 @@ vertical-align: text-top;
     background-color: #1f1f1f;
 }
 
-.ms_title {
+/* .ms_title {
     background-color: chocolate;
     height: 100px;
-}
+} */
 
-.ms_game {
-    background-color: chartreuse;
-    height: 150px;
+.ms_game,
+.ms_game img {
+border-radius: 26px;
 }
 
 .ps4,
