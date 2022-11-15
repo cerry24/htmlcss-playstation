@@ -2,9 +2,16 @@
     background-color: black;
 }
 
-.ms_img {
-    background-color: #fff;
-    height: 40px;
+.ms_img img{
+    min-width: 70px;
+    max-width: 100px;
+}
+
+.ms_btn-login {
+    background-color: #363636;
+    border-radius: 25px;
+    color: white;
+    padding: 6px;
 }
 
 .ms_jumbotron {
