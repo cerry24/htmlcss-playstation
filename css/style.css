@@ -22,11 +22,19 @@ main {
     padding: 6px;
 }
 
-#ms_main-jumbotron {
+.ms_jumbo {
     color: white;
-    background-image: url("../img/jumbo-bg.png");
     background-position: center;
-    padding-top: 375px;
+    background-size: cover;
+    padding-top: 400px;
+}
+
+#ms_main-jumbotron {
+    background-image: url("../img/jumbo-bg.png");
+}
+
+.ms_jumbo-content img {
+    width: 35%;
 }
 
 .ms_btn-purchase {
@@ -36,8 +44,16 @@ main {
 }
 
 .ms_carousel-card {
-    height: 250px;
-    background-color: blueviolet;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.ms_carousel-card img {
+    border-radius: 20px;
+}
+
+.ms_carousel-card:hover {
+    border: 3px #0e79d0 solid;
 }
 
 .ms_product-intro {
