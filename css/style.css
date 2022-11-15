@@ -134,14 +134,8 @@ border-radius: 26px;
     border-radius: 20px;
 }
 
-.ms_section-title {
-    background-color: teal;
-    height: 70px;
-}
-
-.ms_social-logo {
-    background-color: darkgreen;
-    height: 130px;
+.ms_social-logo img {
+    max-width: 250px;
 }
 
 footer {
