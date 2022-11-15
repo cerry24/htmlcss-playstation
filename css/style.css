@@ -1,3 +1,11 @@
+header {
+    font-family: Arial, sans-serif;
+}
+
+main {
+    font-family: Helvetica, sans-serif;
+}
+
 #header-top {
     background-color: black;
 }
@@ -14,12 +22,17 @@
     padding: 6px;
 }
 
-.ms_jumbotron {
-    background-color: aquamarine;
+#ms_main-jumbotron {
+    color: white;
+    background-image: url("../img/jumbo-bg.png");
+    background-position: center;
+    padding-top: 375px;
 }
 
-.ms_jumbo-content {
-    height: 400px;
+.ms_btn-purchase {
+    color: white;
+    background-color: #cd3d0f;
+    border-radius: 18px;
 }
 
 .ms_carousel-card {
