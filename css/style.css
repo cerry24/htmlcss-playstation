@@ -142,9 +142,14 @@ footer {
     background-color: #00439c;
 }
 
-.region,
-.ms_list,
-.ms_copyright {
-    background-color: goldenrod;
-    height: 200px;
+.ms_footer-logo {
+    width: 100px;
+}
+
+.ms_globe {
+    width: 24px;
+}
+
+.ms_sie-logo {
+    width: 150px;
 }
